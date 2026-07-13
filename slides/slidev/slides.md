@@ -28,13 +28,13 @@ PELE 2026 · Work-in-Progress / Demo
 Carnegie Learning
 
 <!--
-Hi everyone, I'm Zack Lee, a software engineer on the Research team at Carnegie Learning. This is joint work with April Murphy.
+Hi everyone, I'm Zack Lee, a software engineer on the Research team. This is joint work with April Murphy.
 
-Today, I'll introduce AI Experiment Consultant, a prototype that helps educational software teams turn an idea, a pain point, or a screenshot into an implementation-ready UpGrade experiment plan.
+This is the talk I gave at the A/B Testing Workshop, which was part of the Festival of Learning in Seoul last month.
 
-(Skip UpGrade intro) I'll start with the practical problem that motivated this work.
+In this talk, I'll introduce AI Experiment Consultant, a prototype that helps educational software teams turn an idea, a pain point, or a screenshot into an implementation-ready UpGrade experiment plan.
 
-(Do UpGrade intro) First, let me give a quick overview of UpGrade.
+I'll start with the practical problem that motivated this work.
 -->
 
 ---
@@ -88,7 +88,7 @@ Today, I'll introduce AI Experiment Consultant, a prototype that helps education
 </div>
 
 <!--
-(Skip UpGrade intro) I'll skip this UpGrade overview.
+(Skip UpGrade intro) Since everyone here is familiar with UpGrade, I'll skip this overview.
 
 (Do UpGrade intro) UpGrade is Carnegie Learning's open-source platform for configuring, deploying, and managing experiments in educational software.
 
