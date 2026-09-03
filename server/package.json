@@ -13,7 +13,7 @@
     "cookie-parser": "^1.4.7",
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
-    "express": "^4.21.2",
+    "express": "^5.2.1",
     "google-auth-library": "^10.6.2",
     "multer": "^2.1.1",
     "uuid": "^14.0.0"
